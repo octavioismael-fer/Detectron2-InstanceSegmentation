@@ -26,7 +26,7 @@ En este paso ya deberías poder correr el programa sin problemas. Para probar el
 ### 💬 &nbsp;Below you will find the information in English:
 
 # Step 1:
-## Clone repository.
+### Clone repository.
 The first thing you need to do is clone this repository. To do this, you need to type in the console:
 
 ```bash
